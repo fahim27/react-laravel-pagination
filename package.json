@@ -1,0 +1,48 @@
+{
+  "name": "react-laravel-pagination",
+  "version": "1.0.0",
+  "description": "React-Laravel Pagination is a very simple pagination package for react components. This package is based on the Laravel pagination collection and bootstrap UI. This package helps to make pagination simple and efficient for React apps with a Laravel API",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "react",
+    "laravel",
+    "pagination",
+    "bootstrap",
+    "ui",
+    "react-pagination",
+    "laravel-pagination",
+    "react-bootstrap",
+    "laravel-react-pagination",
+    "paginate",
+    "rect-laravel-paginate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fahim27/react-laravel-pagination"
+  },
+  "author": "Fahim Muntasir <fahimmbpi@gmail.com> (http://github.com/fahim27)",
+  "homepage": "https://github.com/fahim27/react-js-pagination",
+  "license": "MIT",
+  "peerDependencies": {
+    "bootstrap": "^5.3.3",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "@babel/preset-react": "^7.24.7",
+    "babel-loader": "^9.1.3",
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-node-externals": "^3.0.0"
+  }
+}
