@@ -1,6 +1,6 @@
 # React-Laravel Pagination
 
-React-Laravel Pagination is a very simple pagination package for react components. This package is based on the Laravel pagination collection and bootstrap UI. This package helps to make pagination simple and efficient for React apps with a Laravel  API.
+React-Laravel Pagination is a very simple pagination package for react components. This package is based on the Laravel pagination collection and bootstrap UI. This package helps to make pagination simple and efficient for React apps with a Laravel API.
 
 
 # Installation
@@ -62,6 +62,7 @@ Customize your pagination experience by utilizing a range of props that suit you
 | paginateItemClass      | `string`                | CSS class for each pagination item.                   |              `"page-item"`               |
 | paginateLinkClass      | `string`                | CSS class for pagination links.                       |        `"page-link cursor-pointer"`      |
 | pageNumberAppendToUrl  | `bool`                  | Whether to append the page number to the URL.         |                `true`                    |         
+
 
 
 # use `usePaginationParams` Hook

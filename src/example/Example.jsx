@@ -51,7 +51,6 @@ function Example() {
                     <Pagination
                       data={users}
                       onChangeHandler={getUser}
-                      activePage={5}
                     />
                   </div>
                 )}

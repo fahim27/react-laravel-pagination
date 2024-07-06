@@ -24,8 +24,11 @@
     "type": "git",
     "url": "https://github.com/fahim27/react-laravel-pagination"
   },
+  "bugs": {
+    "url": "https://github.com/fahim27/react-laravel-pagination/issues"
+  },
   "author": "Fahim Muntasir <fahimmbpi@gmail.com> (http://github.com/fahim27)",
-  "homepage": "https://github.com/fahim27/react-js-pagination",
+  "homepage": "https://github.com/fahim27/react-laravel-pagination",
   "license": "MIT",
   "peerDependencies": {
     "bootstrap": "^5.3.3",
