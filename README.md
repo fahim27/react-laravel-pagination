@@ -11,7 +11,20 @@ $ npm install react-laravel-pagination
 ```
 
 # Usage
-Simply include the mandatory `data` and `onChangeHandler` props. Optional props further customize the pagination experience. Example code are below
+Simply include the mandatory `data` and `onChangeHandler` props. Optional props further customize the pagination experience.
+```js
+import { Pagination } from "react-laravel-pagination";
+
+function App() {
+  return  <Pagination data={yourData} onChangeHandler={yourOnChangeHandler} />
+}
+
+export default App;
+```
+
+
+# Example Code
+Example code are provided below
 
 ```js
 import { Pagination } from "react-laravel-pagination";
